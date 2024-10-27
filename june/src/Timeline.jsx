@@ -3,8 +3,8 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 
 const memories = [
-  { date: "First Meeting", description: "We met at the cafe, and you looked amazing!" },
-  { date: "First Trip", description: "Our trip to the beach was unforgettable." },
+  { date: "First Meeting", description: "We met at the FMT GD, and you looked amazing!" },
+  { date: "First photo", description: "Our pic at CCD was unforgettable." },
 ];
 
 function Timeline() {
